@@ -40,6 +40,9 @@ body{
     }
 
 }
+.cards{
+    gap: 20px;
+}
 .logo{
     width: 20%;
 }
